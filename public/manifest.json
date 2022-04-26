@@ -1,0 +1,9 @@
+{
+  "short_name": "Pirate ArrSS",
+  "name": "Pirate ArrSS",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
